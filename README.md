@@ -1,6 +1,6 @@
 # Personal Spending Analysis (Excel)
 
-This project analyzes multi-month credit card transaction data to identify spending trends across different categories.
+This project analyzes multi-month credit card transaction data to identify category-level spending trends.
 
 ## OVERVIEW
 - Categorized transactions into groups such as entertainment, transportation, and subscriptions
