@@ -3,13 +3,12 @@
 This project analyzes multi-month credit card transaction data to identify category-level spending trends.
 
 ## Overview
-- Manually categorized transactions into groups such as Entertainment, Transportation, Dining, Subscriptions, Groceries, and Other  
+- Categorized transactions into groups such as Entertainment, Transportation, Dining, Subscriptions, Groceries, and Other  
 - Calculated totals and averages to summarize spending patterns  
-- Created visualizations to better understand how spending changed over time  
+- Created a bar chart to better understand how spending changed over time  
 
 ## Dataset
-- Source: Personal credit card transactions manually recorded from mobile app statements  
-- Fields: Date, Merchant, Category (assigned), Amount  
+- Source: Personal credit card transactions manually recorded from mobile app statements   
 - Process: Transactions were manually entered and categorized to create a structured dataset for analysis  
 
 ## Key Insights
